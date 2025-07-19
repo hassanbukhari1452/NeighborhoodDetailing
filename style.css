@@ -459,6 +459,7 @@ p {
 
 .hero-stats {
     display: grid;
+    margin-left: 20px;
     grid-template-columns: 1fr;
     gap: var(--spacing-lg);
     animation: fadeInRight 1s ease 0.6s both;
